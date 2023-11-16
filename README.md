@@ -1,2 +1,3 @@
-# CSE465
-Malaria cell detection
+# Malaria cell Detection uning CNN
+Malaria cell detection 
+CSE465 project
